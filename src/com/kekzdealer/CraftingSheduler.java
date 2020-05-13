@@ -35,7 +35,6 @@ public class CraftingSheduler implements Runnable {
 	
 	private List<Recipe> resolveNestedRecipe(Recipe recipe){
 		final List<Recipe> chain = new ArrayList<>();
-		
 	}
 
 }
